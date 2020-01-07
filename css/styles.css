@@ -91,6 +91,7 @@ header{
 } */
 .aboutme {
 }
+
 section h2{
   padding: 0 10px;
   margin: 0 auto;
@@ -101,7 +102,6 @@ section h2{
   font-weight: 1000;
   position: relative;
   display: table;
-
 }
 
 .container{
